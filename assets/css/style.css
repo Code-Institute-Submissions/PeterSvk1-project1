@@ -69,6 +69,11 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
 }
+nav a:hover{
+    color: silver;
+    background-color: #191717;
+    
+}
 
 #nav-toggle {
     display: none;
@@ -122,20 +127,29 @@ main {
     list-style-type: none;
 }
 
-#socials i {
-    font-size: 160%;
+
+#socials i{
+    font-size: 120%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #ffffff;
+    text-decoration: none;
+    
 }
+#socials a {
+    color:white;
+    text-decoration: none;
+}
+
 footer {
 	background-color: rgb(168, 140, 138);
     color:white;
 	padding: 1em;
 	text-align: center;
-    width: 100%;
+    width: 98%;
     position: relative;
     bottom: 0;
     right: 0;
 	z-index: 3;
+    font-size: 150%;
     
 }
