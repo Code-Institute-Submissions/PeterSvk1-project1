@@ -44,7 +44,8 @@ header a {
 nav {
     position: absolute;
     background-color: #ffffff;
-    width: 100%;
+    width: 30%;
+    right:1rem;
     left: 0;
     padding: 1 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
