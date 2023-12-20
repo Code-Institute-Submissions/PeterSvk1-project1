@@ -73,10 +73,10 @@ header a {
     line-height: 75px;
     margin: 0 0.5rem;
 }
-#logo2 {
+
     
 
-}
+
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
@@ -182,7 +182,9 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3)
 }
 
 
-
+.strong{
+    font-weight: bold;
+}
 
 .center-h{
     text-align: center;
@@ -260,7 +262,7 @@ footer span h2{
 }
 
 
-
+/* gallery css section*/
 #photos{
     column-count: 2;
     align-items: center;
@@ -274,4 +276,90 @@ img
     max-height:90%;
     border: 2px solid black;
     padding: 1px;
+}
+
+/* sign up css section*/
+
+    
+    
+    
+
+.signup {
+    max-width: 100%;
+    min-height: 80vh;
+    background-color: aqua;
+    border: 5px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.signup h1 {
+    font-weight: 600;
+    margin-bottom:30px ;
+}
+.signup-box {
+    display:flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 800px;
+    background: green;
+}
+.left-box {
+    padding: 50px;
+    background: red;
+    flex-basis: 50%;
+    flex-grow:1;
+    color: white;
+}
+.right-box {
+    padding: 50px;
+    flex-basis: 50%;
+    flex-grow: 1 ;
+}
+.input-box{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid black;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    background: transparent;
+}
+input[type=checkbox]{
+    margin: 10px;
+}
+.left-box label {
+    font-size: 14px;
+}
+.left-box button{
+    width: 100%;
+    background: aqua;
+    padding: 10px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 16px;
+    margin: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left-box button:hover{
+    font-weight: 600;
+    background:yellow;
+    color: black;
+}
+.left-box button span {
+    display: inline-block;
+    width: 0px;
+    overflow: hidden;
+}
+.left-box button:hover span {
+    
+    width: 40px;
+   
 }
