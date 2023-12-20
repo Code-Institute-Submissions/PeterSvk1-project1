@@ -258,3 +258,20 @@ footer {
 footer span h2{
     color:white;
 }
+
+
+
+#photos{
+    column-count: 2;
+    align-items: center;
+}
+img
+{
+    display:block;
+    width:auto;
+    height:auto;
+    max-width:90%;
+    max-height:90%;
+    border: 2px solid black;
+    padding: 1px;
+}
