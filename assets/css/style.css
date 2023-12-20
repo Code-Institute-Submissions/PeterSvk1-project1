@@ -72,9 +72,7 @@ header a {
     margin: 0 0.5rem;
 }
 #logo2 {
-    position:absolute;
-    margin-left: 400px;
-    margin-top: 20px;
+    
 
 }
 /* Navbar styles with dropdown toggle */
@@ -105,9 +103,7 @@ nav a:hover{
 }
 
 .nav-toggle-label {
-    position: absolute;
-    margin-left:450px;
-    margin-top: 5px;
+ 
     font-size: 2rem;
 }
 
@@ -189,7 +185,7 @@ justify-content: space-around;
 }
 .map {
     text-align: center;
-box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+box-shadow: rgba(141, 52, 59, 0.25) 0px 30px 60px -12px inset, rgba(111, 18, 18, 0.3) 0px 18px 36px -18px inset;
 }
 
 
