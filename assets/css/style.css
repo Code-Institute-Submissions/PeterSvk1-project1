@@ -23,7 +23,12 @@ h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #140f0f;
+    color: #000000;
+    
+}
+
+p {
+    letter-spacing: 1px;
 }
 
 
@@ -128,52 +133,62 @@ main {
 
 #container {
     display: flex;
-    flex-direction: column;
-    text-align: center;
+    flex-direction: column; 
     justify-content: space-evenly;
     align-items: center;
    
 }
 .item1{
 width: 100%;
-max-height: 1300px;
+
 padding: 40px;
 box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-padding-left: 20%;
-padding-right: 20%;
-text-wrap: balance;gi
+padding-left: 10%;
+padding-right: 10%;
 }
 
 .item2{
 width: 100%;
-max-height: 800px;
+
 padding: 40px;
 box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-padding-left: 20%;
-padding-right: 20%;
-text-wrap: balance;
+padding-left: 10%;
+padding-right: 10%;
 }
 .item3{
 width: 100%;
-max-height: 800px;
+
 padding: 40px;
 box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-padding-left: 20%;
-padding-right: 20%;
-text-wrap: balance;
+padding-left: 10%;
+padding-right: 10%;
+
+
 
 }
+.center-h{
+    text-align: center;
+}
+.br{
+    display: none;
 
+}
+.map {
+    text-align: center;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
 
 
     
 
 
-#cover-text {
+#cover-text h2{
     /* transparent  */
+    
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
     background-color: rgba(168, 140, 138, 0.7);
     color: #ffffff;
-    font-size: 130%;
+    font-size: 180%;
     position: absolute;
     bottom: 30px;
     min-width:20%;
