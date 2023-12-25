@@ -270,22 +270,21 @@ footer span h2{
 
 
 /* gallery css section*/
+
+/*picture section*/
+#pictures{
+    margin: 20px;
+   
+}
 #photos{
     column-count: 2;
     align-items: center;
 }
-img{
+#photos img {
+    width: 100%;
     border: 2px solid black;
     padding: 1px;
     margin: 5px;
-}
-/*picture section*/
-#pictures{
-    margin-top: 20px;
-}
-
-#photos img {
-    width: 100%;
 }
 
 #photos {
@@ -387,4 +386,29 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+}
+
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        top:-20px;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
