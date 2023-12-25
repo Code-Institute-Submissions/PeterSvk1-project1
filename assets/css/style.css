@@ -394,7 +394,7 @@ table{
     nav {
         display: block;
         position: relative;
-        top:-20px;
+        top:-10px;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
