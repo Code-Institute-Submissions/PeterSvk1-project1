@@ -23,9 +23,22 @@ The Header:
 --Shows name of the castle using black and white colors
 --Header explains its about bratislava castle.
 
+<<img src="readme_pics/header.jpg" alt="pic3"/>
 -------------
 Text section:
 --Tells user little bit of history about Bratislava castle.
 --Its easy to read and has enough information about castle.
 
-<<img src="readme_pics/textsection.jpg" alt="pic2"/>
+<img src="readme_pics/textsection.jpg" alt="pic2"/>
+
+Gallery button under text:
+--When user click on it it will take him to page with all pictures
+--Next to it user can see how much entrance cost
+
+<img src="readme_pics/galery.jpg" alt="pic4"/>
+
+Information section:
+--Here user can find informations such as address, phone number, openning hours.
+--Its seperated from each other and easy to read.
+
+<img src="readme_pics/infos.jpg" alt="pic5"/>
