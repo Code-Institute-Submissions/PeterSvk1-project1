@@ -97,3 +97,7 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 3. Accessibility -- I confirmned colors and fonts are easy to read and it passed lighthouse in devtools
 
 <img src="readme_pics/validation.jpg" alt="pic7"/>
+
+# Deployment:
+1. This site is deployed to github pages.
+2. Here are steps: In the gihub repository, go to the settings tab. There on the left side find pages and click on it. Then in pages tab click on branch and select main. Then wait till link to your website is generated
