@@ -83,8 +83,7 @@ nav {
     width: 20%;
     right:1rem;
     left: 0;
-    padding: 1 1rem;
-   
+    padding: 0 1rem;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     display: none;
     top: 100%;
@@ -215,7 +214,7 @@ height:450px;
 
 
 #cover-text h2{
-    /* transparent  */
+    /* transparent  cover*/
     
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     border-radius: 15px;
@@ -331,7 +330,10 @@ footer span h2{
     color: rgb(0, 0, 0);
     font-size: 16px
     
-    
+}
+.input-box:focus {
+ border:3px solid red;
+ background-color: rgba(91, 41, 41, 0.08);
 }
 /*::placeholder{
     color: black;
