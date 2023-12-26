@@ -173,6 +173,23 @@ padding-left: 5%;
 padding-right: 5%;
 border-radius:15px;
 }
+#price{
+    margin-top: 20px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fee{
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+    background-color: rgb(137, 31, 31);
+    border-radius:15px;
+    max-width: 100%;
+
+}
 
 /* address and such css*/
 #contact-infos {
@@ -283,12 +300,10 @@ footer h2 span {
 /*picture section*/
 .gallery-link{
  
-    width: 400px;
-   
+    width: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
-      margin-left: auto;
-    margin-right: auto;
+    margin-right: 20px;
     text-align: center;
     background-color: rgb(137, 31, 31);
     border-radius:15px;
@@ -297,6 +312,7 @@ footer h2 span {
 
 .gallery-link h3{
     color: #ffffff;
+    text-align: center;
     
 }
 .gallery-link:hover{
@@ -410,7 +426,11 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+#price{
+    display: flex;
+    flex-direction: column;
 
+}
 }
 
 @media screen and (min-width: 768px) {
