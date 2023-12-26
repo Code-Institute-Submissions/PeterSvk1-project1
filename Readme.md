@@ -69,7 +69,7 @@ Website is for people who like history.
 
 ## Footer section:
 1. --Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
-2. --Names of social media will change from white to red when use hover their mouse over.
+2. --Names of social media will change from white to red when user hover their mouse over.
 3. --It makes very easy to find social media for user
 
 <img src="readme_pics/footer.jpg" alt="pic7"/>
@@ -100,4 +100,13 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 
 # Deployment:
 1. This site is deployed to github pages.
-2. Here are steps: In the gihub repository, go to the settings tab. There on the left side find pages and click on it. Then in pages tab click on branch and select main. Then wait till link to your website is generated
+2. Here are steps: In the gihub repository, go to the settings tab. There on the left side find pages and click on it. Then in pages tab click on branch and select main. Then wait till link to your website is generated.
+
+3. Here is link for live version: https://petersvk1.github.io/project1/index.html
+
+# Credits:
+
+## Content:
+1. -- The code to make a header and navigation bar was inspired by Love running project which was as an example project.
+2. -- Text about history of the Bratislava Castle was taken from https://www.visitbratislava.com/places/bratislava-castle/
+3. -- Many ideas were inspired by this website https://www.w3schools.com/html/default.asp  and https://www.w3schools.com/css/
