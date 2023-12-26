@@ -184,13 +184,20 @@ border-radius:15px;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-left: 20px;
+    margin-right: 20px;
     text-align: center;
     background-color: rgb(137, 31, 31);
     border-radius:15px;
     max-width: 100%;
 
 }
-
+.fee h3{
+    color: #ffffff;
+    text-align: center;
+}
+.fee p{
+    color: #ffffff;
+}
 /* address and such css*/
 #contact-infos {
     display:flex;
@@ -304,7 +311,7 @@ footer h2 span {
     padding-top: 20px;
     padding-bottom: 20px;
     margin-right: 20px;
-    text-align: center;
+    margin-left: 20px;
     background-color: rgb(137, 31, 31);
     border-radius:15px;
     max-width: 100%;
@@ -430,6 +437,9 @@ table{
     display: flex;
     flex-direction: column;
 
+}
+.fee{
+    margin-top: 10px;
 }
 }
 
