@@ -11,48 +11,48 @@ Website is for people who like history.
 ## Features:
 
 ### Navigation bar:
-1. --Website contains navigation bar: Home,Gallery,Sign up.
-2. --When you click Bratislava castle it will always go back to home page.
-3. --There is also small castle picture which has same function - return to home page.
-4. --Navigation clearly tells user what to expect when they click on it.
+- Website contains navigation bar: Home,Gallery,Sign up.
+- When you click Bratislava castle it will always go back to home page.
+- There is also small castle picture which has same function - return to home page.
+- Navigation clearly tells user what to expect when they click on it.
 
 <img src="readme_pics/navbarfinal.webp" alt="pic1"/>
 
 -------------
 ### The Header:
-1. --Shows name of the castle using black and white colors
-2. --Header explains its about bratislava castle.
+- Shows name of the castle using black and white colors
+- Header explains its about bratislava castle.
 
 <img src="readme_pics/header.jpg" alt="pic3"/>
 
 -------------
 
 ### Text section:
-1. --Tells user little bit of history about Bratislava castle.
-2. --Its easy to read and has enough information about castle.
+- Tells user little bit of history about Bratislava castle.
+- Its easy to read and has enough information about castle.
 
 <img src="readme_pics/textsection.jpg" alt="pic2"/>
 -------------
 
 ### Gallery button under text:
-1. --When user click on it it will take him to page with all pictures
-2. --Next to it user can see how much entrance cost
+- When user click on it it will take him to page with all pictures
+- Next to it user can see how much entrance cost
 
 <img src="readme_pics/galerypic.jpg" alt="pic4"/>
 
 --------------
 
 ### Information section:
-1. --Here user can find informations such as address, phone number, openning hours.
-2. --Its seperated from each other and easy to read.
+- Here user can find informations such as address, phone number, openning hours.
+- Its seperated from each other and easy to read.
 
 <img src="readme_pics/infos.jpg" alt="pic5"/>
 
 --------------
 
 ### Sign Up page:
-1. -- Here user can sign up and it will collect data and show them on new page if its successful. Used this https://formdump.codeinstitute.net to check if its working.
-2. -- Sign Up button will change collor whenm user hover over it from red to yellow.
+- Here user can sign up and it will collect data and show them on new page if its successful. Used this https://formdump.codeinstitute.net to check if its working.
+- Sign Up button will change collor whenm user hover over it from red to yellow.
 
 <img src="readme_pics/signup.jpg" alt="pic5"/>
 <img src="readme_pics/button.jpg" alt="pic6"/>
@@ -60,41 +60,41 @@ Website is for people who like history.
 ---------------
 
 ### Gallery page:
-1. --Here user can find beautiful pics of Bratislava castle.
-2. --They will have idea how castle look.
+- Here user can find beautiful pics of Bratislava castle.
+- They will have idea how castle look.
 
 <img src="readme_pics/gallerypage.jpg" alt="pic6"/>
 
 ----------------
 
 ### Footer section:
-1. --Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
-2. --Names of social media will change from white to red when user hover their mouse over.
-3. --It makes very easy to find social media for user
+- Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
+- Names of social media will change from white to red when user hover their mouse over.
+- It makes very easy to find social media for user
 
 <img src="readme_pics/footer.jpg" alt="pic7"/>
 
 -----------------
 ### map section:
-1. --Its important for user to know where Castle is located
-2. --User can easier find transport and reach their destination with map.
+- Its important for user to know where Castle is located
+- User can easier find transport and reach their destination with map.
 
 <img src="readme_pics/map.jpg" alt="pic7"/>
 
 -----------------
 
 ### Testing:
-1. --I tested that website works on different browsers: chrome,brave,edge.
-2. --Project is responsive,looks good on phone and also other standart devices.
-3. --I used devtools build in chrome but also my phone.
+- I tested that website works on different browsers: chrome,brave,edge.
+- Project is responsive,looks good on phone and also other standart devices.
+- I used devtools build in chrome but also my phone.
 
 ### Bugs:
 Didnt encounter any, atleast not on phone or chrome browser PC.
 
 ### Validator testing:
-1. HTML -- No error were returned when passing through W3C validator
-2. CSS -- No errors were found using Jigsaw validator
-3. Accessibility -- I confirmned colors and fonts are easy to read and it passed lighthouse in devtools
+- HTML -- No error were returned when passing through W3C validator
+- CSS -- No errors were found using Jigsaw validator
+- Accessibility -- I confirmned colors and fonts are easy to read and it passed lighthouse in devtools
 
 <img src="readme_pics/validation.jpg" alt="pic7"/>
 
@@ -102,14 +102,14 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 - This site is deployed to github pages.
 - Here are steps: In the gihub repository, go to the settings tab. There on the left side find pages and click on it. Then in pages tab click on branch and select main. Then wait till link to your website is generated.
 
-3. Here is link for live version: https://petersvk1.github.io/project1/index.html
+- Here is link for live version: https://petersvk1.github.io/project1/index.html
 
 # Credits:
 
 ## Content:
-1. -- The code to make a header and navigation bar was inspired by Love running project which was as an example project.
-2. -- Text about history of the Bratislava Castle was taken from https://www.visitbratislava.com/places/bratislava-castle/
-3. -- Many ideas were inspired by this website https://www.w3schools.com/html/default.asp  and https://www.w3schools.com/css/
-4. -- I used this https://formdump.codeinstitute.net/ in my sign up form to see if data are sent corectly
+- The code to make a header and navigation bar was inspired by Love running project which was as an example project.
+- Text about history of the Bratislava Castle was taken from https://www.visitbratislava.com/places/bratislava-castle/
+- Many ideas were inspired by this website https://www.w3schools.com/html/default.asp  and https://www.w3schools.com/css/
+- I used this https://formdump.codeinstitute.net/ in my sign up form to see if data are sent corectly
 
 ## Media
