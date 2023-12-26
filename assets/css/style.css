@@ -295,6 +295,7 @@ footer h2 span {
 }
 /* sign up css section*/
 .signup {
+    margin-top: 20px;
     margin-left: auto;
     margin-right:auto ;
     width: 600px;
@@ -306,7 +307,7 @@ footer h2 span {
     flex-direction: column;
 
 }
-.signup h1 {
+.signup h2 {
     font-weight: 600;
     margin-bottom:30px ;
 }
