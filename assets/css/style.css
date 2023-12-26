@@ -122,7 +122,7 @@ main {
 #bratislavapic {
     text-align: center;
     height: 600px;
-    width: 100%;
+    max-width: 100%;
     background: url("../images/mainpic.webp") no-repeat center center/cover;
     position: relative;
     margin-top: 70px;
@@ -233,7 +233,7 @@ height:450px;
 /* Footer */
 #socials {
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
@@ -268,6 +268,7 @@ footer {
 }
 footer h2 span {
     color:white;
+    text-decoration: underline;
 }
 
 
