@@ -69,7 +69,7 @@ Website is for people who like history.
 
 ## Footer section:
 1. --Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
-2. --Letter change from white to red when use hover their mouse over.
+2. --Names of social media will change from white to red when use hover their mouse over.
 3. --It makes very easy to find social media for user
 
 <img src="readme_pics/footer.jpg" alt="pic7"/>
@@ -77,6 +77,23 @@ Website is for people who like history.
 -----------------
 ## map section:
 1. --Its important for user to know where Castle is located
-2. --User can easier to find transport and reach their destination with map.
+2. --User can easier find transport and reach their destination with map.
 
 <img src="readme_pics/map.jpg" alt="pic7"/>
+
+-----------------
+
+## Testing:
+1. --I tested that website works on different browsers: chrome,brave,edge.
+2. --Project is responsive,looks good on phone and also other standart devices.
+3. --I used devtools build in chrome but also my phone.
+
+## Bugs:
+Didnt encounter any, atleast not on phone or chrome browser PC.
+
+## Validator testing:
+1. HTML -- No error were returned when passing through W3C validator
+2. CSS -- No errors were found using Jigsaw validator
+3. Accessibility -- I confirmned colors and fonts are easy to read and it passed lighthouse in devtools
+
+<img src="readme_pics/validation.jpg" alt="pic7"/>
