@@ -51,7 +51,7 @@ Website is for people who like history.
 
 ### Sign Up page:
 - Here user can sign up and it will collect data and show them on new page if its successful. Used this https://formdump.codeinstitute.net to check if its working.
-- Sign Up button will change collor whenm user hover over it from red to yellow.
+- Sign Up button will change collor when user hover over it from red to yellow.
 
 <img src="readme_pics/signup.jpg" alt="pic5"/>
 <img src="readme_pics/button.jpg" alt="pic6"/>
