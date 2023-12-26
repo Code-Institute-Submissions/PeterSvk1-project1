@@ -60,6 +60,23 @@ Website is for people who like history.
 ---------------
 
 ## Gallery page:
-1. Here user can find beautiful pics of Bratislava castle.
+1. --Here user can find beautiful pics of Bratislava castle.
+2. --They will have idea how castle look.
 
 <img src="readme_pics/gallerypage.jpg" alt="pic6"/>
+
+----------------
+
+## Footer section:
+1. --Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
+2. --Letter change from white to red when use hover their mouse over.
+3. --It makes very easy to find social media for user
+
+<img src="readme_pics/footer.jpg" alt="pic7"/>
+
+-----------------
+## map section:
+1. --Its important for user to know where Castle is located
+2. --User can easier to find transport and reach their destination with map.
+
+<img src="readme_pics/map.jpg" alt="pic7"/>
