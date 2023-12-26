@@ -64,12 +64,7 @@ header a {
 }
 
 .active {
-    
-    background-color: #000000;
-    color: #ffffff;
-    padding-left: 5px;
-    padding-right: 5px ;
-    border-radius: 15px;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 #logo {
@@ -175,14 +170,8 @@ padding-left: 5%;
 padding-right: 5%;
 border-radius:15px;
 }
-/*
-.box-h{
-    background-color: #131212;
-    border-radius:15px;
-    max-width: 100%;
-    
-}*/
-/* adress and such css*/
+
+/* address and such css*/
 #contact-infos {
     display:flex;
     justify-content: space-around;
@@ -391,6 +380,7 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+
 }
 
 @media screen and (min-width: 768px) {
@@ -416,4 +406,5 @@ table{
     .nav-toggle-label {
         display: none;
     }
+    
 }
