@@ -101,7 +101,7 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 - This site is deployed to github pages.
 - Here are steps: In the gihub repository, go to the settings tab. There on the left side find pages and click on it. Then in pages tab click on branch and select main. Then wait till link to your website is generated.
 
-- Here is link for live version: https://petersvk1.github.io/project1/index.html
+Here is link for live version: https://petersvk1.github.io/project1/index.html
 
 # Credits:
 
@@ -112,3 +112,5 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 - I used this https://formdump.codeinstitute.net/ in my sign up form to see if data are sent corectly
 
 ## Media
+- Pictures used on this website can be found simply by searching Bratislava castle in google search.
+- Few pictures were taken from https://bratislavaregion.travel/poi/9/bratislavsky-hrad and other websites which provide free pictures.
