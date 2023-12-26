@@ -38,7 +38,7 @@ Website is for people who like history.
 --When user click on it it will take him to page with all pictures
 --Next to it user can see how much entrance cost
 
-<img src="readme_pics/galery.jpg" alt="pic4"/>
+<img src="readme_pics/galerypic.jpg" alt="pic4"/>
 
 --------------
 
