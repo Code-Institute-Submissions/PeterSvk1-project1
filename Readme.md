@@ -5,7 +5,6 @@ Users can find map with castle, contact informations,sign up form,pictures,price
 Website is for people who like history.
 
 <img src="readme_pics/mainpic.jpg" alt="pic11"/>
--------------
 
 ## Features:
 
@@ -17,21 +16,18 @@ Website is for people who like history.
 
 <img src="readme_pics/navbarfinal.webp" alt="pic1"/>
 
--------------
 ### The Header:
 - Shows name of the castle using black and white colors
 - Header explains its about bratislava castle.
 
 <img src="readme_pics/header.jpg" alt="pic3"/>
 
--------------
 
 ### Text section:
 - Tells user little bit of history about Bratislava castle.
 - Its easy to read and has enough information about castle.
 
 <img src="readme_pics/textsection.jpg" alt="pic2"/>
--------------
 
 ### Gallery button under text:
 - When user click on it it will take him to page with all pictures
@@ -39,15 +35,12 @@ Website is for people who like history.
 
 <img src="readme_pics/galerypic.jpg" alt="pic4"/>
 
---------------
-
 ### Information section:
 - Here user can find informations such as address, phone number, openning hours.
 - Its seperated from each other and easy to read.
 
 <img src="readme_pics/infos.jpg" alt="pic5"/>
 
---------------
 
 ### Sign Up page:
 - Here user can sign up and it will collect data and show them on new page if its successful. Used this https://formdump.codeinstitute.net to check if its working.
@@ -56,15 +49,12 @@ Website is for people who like history.
 <img src="readme_pics/signup.jpg" alt="pic5"/>
 <img src="readme_pics/button.jpg" alt="pic6"/>
 
----------------
 
 ### Gallery page:
 - Here user can find beautiful pics of Bratislava castle.
 - They will have idea how castle look.
 
 <img src="readme_pics/gallerypage.jpg" alt="pic6"/>
-
-----------------
 
 ### Footer section:
 - Here user can click on social media icons and it will take them to facebook,youtube,instagram,twitter.
@@ -73,14 +63,12 @@ Website is for people who like history.
 
 <img src="readme_pics/footer.jpg" alt="pic7"/>
 
------------------
 ### map section:
 - Its important for user to know where Castle is located
 - User can easier find transport and reach their destination with map.
 
 <img src="readme_pics/map.jpg" alt="pic7"/>
 
------------------
 
 ### Testing:
 - I tested that website works on different browsers: chrome,brave,edge.
