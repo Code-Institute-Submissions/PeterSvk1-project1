@@ -55,4 +55,11 @@ Website is for people who like history.
 2. -- Sign Up button will change collor whenm user hover over it from red to yellow.
 
 <img src="readme_pics/signup.jpg" alt="pic5"/>
-<img src="readme_pics/button.jpg" alt="pic5"/>
+<img src="readme_pics/button.jpg" alt="pic6"/>
+
+---------------
+
+## Gallery page:
+1. Here user can find beautiful pics of Bratislava castle.
+
+<img src="readme_pics/gallerypage.jpg" alt="pic6"/>
