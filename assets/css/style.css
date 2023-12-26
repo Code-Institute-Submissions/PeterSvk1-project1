@@ -94,8 +94,11 @@ nav {
     display: block;
 }
 nav a:hover{
-    color: silver;
-    background-color: #191717;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right:5px;
     
 }
 
@@ -251,6 +254,9 @@ height:450px;
     color:white;
     text-decoration: none;
 }
+#socials a:hover{
+color: red;
+}
 
 footer {
 	background-color: rgb(0, 0, 0);
@@ -288,10 +294,15 @@ footer h2 span {
     border-radius:15px;
     max-width: 100%;
 }
+
 .gallery-link h3{
     color: #ffffff;
-
+    
 }
+.gallery-link:hover{
+    background-color: rgb(182, 180, 66);
+}
+
 #pictures{
     margin: 20px;
     text-align: center;
