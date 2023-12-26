@@ -11,10 +11,10 @@ Website is for people who like history.
 # Features:
 
 ## Navigation bar:
---Website contains navigation bar: Home,Gallery,Sign up.
---When you click Bratislava castle it will always go back to home page.
---There is also small castle picture which has same function - return to home page.
---Navigation clearly tells user what to expect when they click on it.
+1. --Website contains navigation bar: Home,Gallery,Sign up.
+2. --When you click Bratislava castle it will always go back to home page.
+3. --There is also small castle picture which has same function - return to home page.
+4. --Navigation clearly tells user what to expect when they click on it.
 
 <img src="readme_pics/navbarfinal.webp" alt="pic1"/>
 
@@ -51,4 +51,6 @@ Website is for people who like history.
 --------------
 
 ## Sign Up page:
--- Here user can sign up and it will collect data and show them on new page if its successful, used this https://formdump.codeinstitute.net to check if its working.
+-- Here user can sign up and it will collect data and show them on new page if its successful. Used this https://formdump.codeinstitute.net to check if its working.
+
+<img src="readme_pics/signup.jpg" alt="pic5"/>
