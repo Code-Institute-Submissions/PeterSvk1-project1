@@ -110,3 +110,4 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 1. -- The code to make a header and navigation bar was inspired by Love running project which was as an example project.
 2. -- Text about history of the Bratislava Castle was taken from https://www.visitbratislava.com/places/bratislava-castle/
 3. -- Many ideas were inspired by this website https://www.w3schools.com/html/default.asp  and https://www.w3schools.com/css/
+4. -- I used this https://formdump.codeinstitute.net/ in my sign up form to see if data are sent corectly
