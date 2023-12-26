@@ -4,7 +4,7 @@ Visitors of the website will be able to find information about castle and museum
 Users can find map with castle, contact informations,sign up form,pictures,price per day.
 Website is for people who like history.
 
-<img src="readme_pics/mainpic.jpg" alt="pic1"/>
+<img src="readme_pics/mainpic.jpg" alt="pic11"/>
 -------------
 
 ## Features:
