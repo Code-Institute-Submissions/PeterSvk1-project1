@@ -103,6 +103,10 @@ Didnt encounter any, atleast not on phone or chrome browser PC.
 
 Here is link for live version: https://petersvk1.github.io/project1/index.html
 
+# Languages Used:
+- HTML5
+- CSS3
+
 # Credits:
 
 ## Content:
