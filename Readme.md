@@ -8,9 +8,9 @@ Website is for people who like history.
 
 -------------
 
-Features:
+# Features:
 
-Navigation bar:
+## Navigation bar:
 --Website contains navigation bar: Home,Gallery,Sign up.
 --When you click Bratislava castle it will always go back to home page.
 --There is also small castle picture which has same function - return to home page.
@@ -19,7 +19,7 @@ Navigation bar:
 <img src="readme_pics/navbarfinal.webp" alt="pic1"/>
 
 -------------
-The Header:
+## The Header:
 --Shows name of the castle using black and white colors
 --Header explains its about bratislava castle.
 
@@ -27,14 +27,14 @@ The Header:
 
 -------------
 
-Text section:
+## Text section:
 --Tells user little bit of history about Bratislava castle.
 --Its easy to read and has enough information about castle.
 
 <img src="readme_pics/textsection.jpg" alt="pic2"/>
 -------------
 
-Gallery button under text:
+## Gallery button under text:
 --When user click on it it will take him to page with all pictures
 --Next to it user can see how much entrance cost
 
@@ -42,7 +42,7 @@ Gallery button under text:
 
 --------------
 
-Information section:
+## Information section:
 --Here user can find informations such as address, phone number, openning hours.
 --Its seperated from each other and easy to read.
 
@@ -50,5 +50,5 @@ Information section:
 
 --------------
 
-Sign Up page:
+## Sign Up page:
 -- Here user can sign up and it will collect data and show them on new page if its successful, used this https://formdump.codeinstitute.net to check if its working.
